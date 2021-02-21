@@ -1,0 +1,5 @@
+npm init -y
+npm install discord.js
+npm install ffmpeg-static
+npm install --save @discordjs/opus
+npm install --save ytdl-core
